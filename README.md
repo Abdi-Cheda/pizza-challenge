@@ -1,5 +1,4 @@
-# pizza-challenge
-Pizza Restaurant API
+# Pizza Restaurant API
 Introduction
 This is a simple Flask-based API for managing pizza restaurants and their menus. It allows users to perform CRUD operations on restaurants and pizzas, as well as associating pizzas with specific restaurants along with pricing information.
 
