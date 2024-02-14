@@ -17,6 +17,9 @@ flask db upgrade
 ## Start the Flask server:
 python app.py
 
+## Start Front-end
+run npm start
+
 ## Access the API endpoints using a tool like Postman or any web browser:
 GET /restaurants: Retrieve all restaurants.
 GET /restaurants/<id>: Retrieve a specific restaurant by ID.
