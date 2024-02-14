@@ -27,8 +27,8 @@ POST /restaurant_pizzas: Add a new pizza to a restaurant's menu along with prici
 ## Sample Data
 You can add sample data to the database by running the add_sample_data function in the app.py file.
 
-Author
-This project was developed by [Your Name].
+## Author
+This project was developed by [ABDIRAHMAN CHEDA].
 
-License
+## License
 This project is licensed under the MIT License.
