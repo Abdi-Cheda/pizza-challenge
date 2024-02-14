@@ -7,18 +7,13 @@ Clone the repository:
 git clone https://github.com/Abdi-Cheda/pizza-challenge.git
 
 ## Install dependencies:
-
-bash
-Copy code
 pip install -r requirements.txt
-Set up the database:
 
-bash
-Copy code
+## Set up the database:
 flask db init
 flask db migrate
 flask db upgrade
-Usage
+
 Start the Flask server:
 
 bash
