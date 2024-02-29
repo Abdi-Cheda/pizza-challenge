@@ -15,7 +15,7 @@ flask db migrate
 flask db upgrade
 
 ## Start the Flask server:
-python app.py
+flask run
 
 ## Start Front-end
 run npm start
